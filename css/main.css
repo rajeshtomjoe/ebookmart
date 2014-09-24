@@ -1,0 +1,40 @@
+#search-results .media {
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+
+.modal .media {
+	border: none !important;
+	padding: 0 !important;
+}
+
+#search-results .summary {
+	margin-bottom: 10px;
+}
+
+#search-results .book-actions {
+	margin-top: 20px;
+}
+
+#search-results .media-object {
+	width: 100px;
+}
+
+.content {
+	margin-top: 10px;
+}
+
+.author-filter,
+.category-filter {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+.search-price-tag {
+	font-weight: bold;
+	float: left;
+	padding: 4px 20px;
+	border: 1px solid #ddd;
+	margin-right: 10px;
+	color: green;
+}
